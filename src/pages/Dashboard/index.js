@@ -205,7 +205,7 @@ function Dashboard() {
         <div className="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0">
           <i className="bi bi-archive flex-shrink-0"></i>
           <div>
-            <h4>Est labore ad</h4>
+            <h4>কনসেপ্ট বেইজড ক্লাস</h4>
             <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
           </div>
         </div>
@@ -214,7 +214,7 @@ function Dashboard() {
         <div className="features-item d-flex mt-5 ps-0 ps-lg-3">
           <i className="bi bi-basket flex-shrink-0"></i>
           <div>
-            <h4>Harum esse qui</h4>
+            <h4>অফলাইন/অনলাইন প্রোগ্রাম</h4>
             <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
           </div>
         </div>
@@ -223,7 +223,7 @@ function Dashboard() {
         <div className="features-item d-flex mt-5 ps-0 ps-lg-3">
           <i className="bi bi-broadcast flex-shrink-0"></i>
           <div>
-            <h4>Aut occaecati</h4>
+            <h4>Auto SMS রেজাল্ট </h4>
             <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
           </div>
         </div>
@@ -232,7 +232,7 @@ function Dashboard() {
         <div className="features-item d-flex mt-5 ps-0 ps-lg-3">
           <i className="bi bi-camera-reels flex-shrink-0"></i>
           <div>
-            <h4>Beatae veritatis</h4>
+            <h4>মানসম্মত স্টাডি ম্যাটেরিয়ালস</h4>
             <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
           </div>
         </div>
@@ -319,6 +319,7 @@ function Dashboard() {
         <div className="stats-item text-center w-100 h-100">
           <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
           <p>Students</p>
+          <span>1200+</span>
         </div>
       </div>
       {/* End Stats Item  */}
@@ -327,6 +328,7 @@ function Dashboard() {
         <div className="stats-item text-center w-100 h-100">
           <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" className="purecounter"></span>
           <p>Courses</p>
+          <span>20+</span>
         </div>
       </div>
       {/* End Stats Item  */}
@@ -335,6 +337,7 @@ function Dashboard() {
         <div className="stats-item text-center w-100 h-100">
           <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" className="purecounter"></span>
           <p>Events</p>
+          <span>150+</span>
         </div>
       </div>
       {/* End Stats Item  */}
@@ -343,6 +346,7 @@ function Dashboard() {
         <div className="stats-item text-center w-100 h-100">
           <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" className="purecounter"></span>
           <p>Trainers</p>
+          <span>10+</span>
         </div>
       </div>
       {/* End Stats Item  */}
