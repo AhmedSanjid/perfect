@@ -3,15 +3,11 @@ import AdminLayout from '../../layouts/AdminLayout';
 
 function Dashboard() {
     return (
-    
         <AdminLayout>
           <main className="main">
-
         {/* Hero Section  */}
         <section id="hero" className="hero section dark-background">
-
           <img src="assets/img/hero-bg.jpg" alt=""/>
-
           <div className="container d-flex flex-column align-items-center text-center">
             <h2>Welcome to Perfect Coaching</h2>
             <p>JOIN US & JOIN WITH DIFFERENCE & BE PERFECT</p>
@@ -56,11 +52,8 @@ function Dashboard() {
                 {/* <p>  ......................................................... </p> */}
                 <a href="#" className="read-more"><span> Read More </span><i className="bi bi-arrow-right"></i></a>
               </div>
-
             </div>
-
           </div>
-
         </section>
         {/* /About Section  */}
 
