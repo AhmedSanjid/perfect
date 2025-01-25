@@ -47,7 +47,6 @@ function Dashboard() {
                   <li><i className="bi bi-check2-circle"></i> <span>Spoken English.</span></li>
                 </ul> */}
               </div>
-
               <div className="col-lg-6">
                 {/* <p>  ......................................................... </p> */}
                 <a href="#" className="read-more"><span> Read More </span><i className="bi bi-arrow-right"></i></a>
@@ -56,10 +55,8 @@ function Dashboard() {
           </div>
         </section>
         {/* /About Section  */}
-
         {/* Services Section  */}
         <section id="services" className="services section">
-
           {/* Section Title  */}
           <div className="container section-title">
             <h2>Services</h2>
@@ -68,9 +65,7 @@ function Dashboard() {
           {/* End Section Title  */}
 
           <div className="container">
-
             <div className="row gy-4">
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item  position-relative">
                   <div className="icon">
@@ -83,7 +78,6 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item position-relative">
                   <div className="icon">
@@ -96,7 +90,6 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item position-relative">
                   <div className="icon">
@@ -109,7 +102,6 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item position-relative">
                   <div className="icon">
@@ -123,7 +115,6 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item position-relative">
                   <div className="icon">
@@ -137,7 +128,6 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
               <div className="col-lg-4 col-md-6">
                 <div className="service-item position-relative">
                   <div className="icon">
@@ -151,11 +141,8 @@ function Dashboard() {
                 </div>
               </div>
               {/* End Service Item  */}
-
             </div>
-
           </div>
-
         </section>
         {/* /Services Section  */}
 
@@ -165,7 +152,6 @@ function Dashboard() {
           <img src="assets/img/cta-bg.jpg" alt=""/>
 
           <div className="container">
-
             <div className="row">
               <div className="col-xl-9 text-center text-xl-start">
                 <h3>Call To Action</h3>
